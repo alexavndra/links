@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:ital,wght@0,300;0,400;1,400&display=swap');
+
+:root {
+    --font-family: 'Rubik';
+    --normal-font: 300;
+    --bold-font: 400;
+}
+
+img {
+    padding-top: 1rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 9rem;
+}
+
+p {
+    font-family: var(--font-family);
+    font-size: 1.5rem;
+    display: block;
+    text-align: center;
+}
